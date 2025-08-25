@@ -5,7 +5,7 @@
 
   export default defineConfig({
     plugins: [react()],
-    base: '/KHIMSHO-Portfolio-Website/', // Add this line for GitHub Pages
+    base: '/personal-portfolio/', // Fixed: matches your actual repository name
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
