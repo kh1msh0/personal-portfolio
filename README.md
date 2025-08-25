@@ -1,11 +1,14 @@
 
   # KHIMSHO Portfolio Website
 
-  This is a code bundle for KHIMSHO Portfolio Website. The original project is available at https://www.figma.com/design/BjaF8UolurNYPzpIalF7db/KHIMSHO-Portfolio-Website.
+  A modern portfolio website built with React, TypeScript, and Tailwind CSS.
 
-  ## Running the code
+  ## Features
+  - Responsive design
+  - Modern UI components
+  - Built with Vite
+  - Deployed on GitHub Pages
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
+  ## Deployment
+  This website is automatically deployed to GitHub Pages using GitHub Actions.
   
